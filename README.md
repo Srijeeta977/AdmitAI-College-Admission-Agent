@@ -163,33 +163,37 @@ Available under `docs/`
 
 Available under `screenshots/`
 
-* Streamlit Homepage
-* ## Streamlit User Interface
+## Streamlit User Interface
   
 ![Streamlit Homepage](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/streamlit_homepage.png)
 
-* Query Demonstrations
-* ## Query Demonstration 1  
+## Query Demonstration 1  (Streamlit)
 
 ![Query Demo 1](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/streamlit_q&a1.png)
-## Query Demonstration 2
+
+## Query Demonstration 2  (Streamlit)
 
 ![Query Demo 2](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/streamlit_q&a2.png)
-* LangFlow Workflow
-* ## LangFlow Granite Workflow
 
-![LangFlow Granite Workflow](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/langflow_granite_flow.png)
 ## LangFlow Granite Workflow
 
+![LangFlow Granite Workflow](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/langflow_granite_flow.png)
+
+## LangFlow Granite Workflow Responses
+
 ![LangFlow Granite Workflow](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/langflow_granite_flow_responses.png)
-* Knowledge Base Workflow
-* ## LangFlow Knowledge Base Workflow
+
+## LangFlow Knowledge Base Workflow
 
 ![LangFlow Knowledge Base](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/langflow_knowledgebase_flow.png)
-* IBM watsonx.ai Usage Statistics
-* ## IBM watsonx.ai Resource Usage
+
+## IBM watsonx.ai Resource Usage
 
 ![IBM Usage](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/token_usage.png)
+
+## Assets
+
+Available under `assets/`
 
 ## Architecture Blueprint
 
