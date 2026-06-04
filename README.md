@@ -193,11 +193,11 @@ Available under `screenshots/`
 
 ## Architecture Blueprint
 
-![Architecture Blueprint](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/assets/architecture_blueprint 1.png)
+![Architecture Blueprint](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/assets/architecture_blueprint1.png)
 
 ## Architecture Blueprint
 
-![Architecture Blueprint](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/assets/architecture_blueprint 2.png)
+![Architecture Blueprint](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/assets/architecture_blueprint2.png)
 
 ## System Workflow
 
