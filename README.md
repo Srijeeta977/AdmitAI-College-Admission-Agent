@@ -165,9 +165,7 @@ Available under `screenshots/`
 
 * Streamlit Homepage
 * ## Streamlit User Interface
-
-![Streamlit UI](## Streamlit User Interface
-
+  
 ![Streamlit Homepage](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/streamlit_homepage.png))
 * Query Demonstrations
 * LangFlow Workflow
