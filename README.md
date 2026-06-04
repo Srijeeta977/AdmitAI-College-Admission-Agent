@@ -166,11 +166,42 @@ Available under `screenshots/`
 * Streamlit Homepage
 * ## Streamlit User Interface
   
-![Streamlit Homepage](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/streamlit_homepage.png))
+![Streamlit Homepage](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/streamlit_homepage.png)
+
 * Query Demonstrations
+* ## Query Demonstration 1  
+
+![Query Demo 1](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/streamlit_q&a1.png)
+## Query Demonstration 2
+
+![Query Demo 2](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/streamlit_q&a2.png)
 * LangFlow Workflow
+* ## LangFlow Granite Workflow
+
+![LangFlow Granite Workflow](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/langflow_granite_flow.png)
+## LangFlow Granite Workflow
+
+![LangFlow Granite Workflow](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/langflow_granite_flow_responses.png)
 * Knowledge Base Workflow
+* ## LangFlow Knowledge Base Workflow
+
+![LangFlow Knowledge Base](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/langflow_knowledgebase_flow.png)
 * IBM watsonx.ai Usage Statistics
+* ## IBM watsonx.ai Resource Usage
+
+![IBM Usage](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/token_usage.png)
+
+## Architecture Blueprint
+
+![Architecture Blueprint](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/assets/architecture_blueprint1.png)
+
+## Architecture Blueprint
+
+![Architecture Blueprint](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/assets/architecture_blueprint2.png)
+
+## System Workflow
+
+![Workflow Diagram](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/assets/workflow_diagram.png)
 
 ---
 
