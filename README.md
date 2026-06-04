@@ -191,6 +191,8 @@ Available under `screenshots/`
 
 ![IBM Usage](https://raw.githubusercontent.com/Srijeeta977/AdmitAI-College-Admission-Agent/main/screenshots/token_usage.png)
 
+---
+
 ## Assets
 
 Available under `assets/`
