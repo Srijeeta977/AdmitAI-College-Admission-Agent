@@ -271,4 +271,9 @@ Developed as part of the IBM SkillsBuild Internship Project.
 
 ## License
 
-This project is intended for educational and internship demonstration purposes.
+Copyright (c) 2026 Srijeeta Dutta
+
+All Rights Reserved.
+
+This source code may not be copied, modified, distributed, or used in any form without explicit written permission from the author.
+
